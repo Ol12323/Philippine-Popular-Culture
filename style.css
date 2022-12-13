@@ -1,0 +1,13 @@
+ .carousel-item {
+    width:640px;
+    height: 35rem;
+    background-color: black;
+  }
+  .carousel-item > img{
+    opacity: 0.5;
+  }
+  .card-img-top {
+    height: 15rem;
+    object-fit: cover;
+}
+
